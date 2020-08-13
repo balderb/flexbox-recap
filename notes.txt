@@ -9,3 +9,33 @@ And floats are not totally away now.
 
 Flexbox is really great when you want to line things up in one direction.
 
+Think of it as a bunch of boxes that are in an infintely long line but it's
+not infinately long. It's actually a limited amount of space so it happens to wrap.
+Whether it wraps or not, the calculations that are being made are all one line
+at a time. The browser only thinks about things in one dimension at a time. it 
+does not calculate information across rows. or if you go in the other direction.
+It will calculate them in one direction and not in the other direction.
+
+Grid has the ability to line things up in two directions. And in fact, Grid always wants
+to line things up in two directions. you can't get it to kind of stagger things. It
+thinks about rows and columns at the same time, and it's gonna wanna make adjustments to your
+grid, based on what's going on in both of those directions at the same time.
+
+https://www.youtube.com/watch?v=dQHtT47eH0M
+
+We can also use Grid and Flexbox all at the same time.
+
+https://www.youtube.com/watch?v=EFafSYg-PkI
+
+Learn css grid more specifically.
+But we can use flexbox and grid together.
+
+-> What is the main tag again?
+
+from: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/main
+
+
+The HTML <main> element represents the dominant content of the <body> of a document. 
+The main content area consists of content that is directly related to or expands upon 
+the central topic of a document, or the central functionality of an application.
+
