@@ -1,5 +1,11 @@
+
 I use this tutorial for flexbox RECAP exercise
 
 https://www.youtube.com/watch?v=EFafSYg-PkI
+https://www.youtube.com/watch?v=hs3piaN4b5I
 
+Grid and Flexbox work well together. 
+And floats are not totally away now.
+
+Flexbox is really great when you want to line things up in one direction.
 
